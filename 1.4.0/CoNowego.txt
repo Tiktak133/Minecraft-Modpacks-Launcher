@@ -1,0 +1,9 @@
+Wersja 1.4.0
+
+- Panel Co Nowego?
+- Zaokrąglone okna
+- Naprawa błędów z instalacją folderu config przy każdej aktualizacji
+- Nowy przycisk "Graj" dla paczek modyfikacji
+- Wprowadzono wszędzie ciemny motyw
+- Nowy sposób aktualizacji programu
+- Przeglądanie Screenshotów
