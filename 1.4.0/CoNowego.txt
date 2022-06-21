@@ -1,9 +1,9 @@
-Wersja 1.4.0
+Wersja 1.4.0 (21.06.2022)
 
-- Panel Co Nowego?
-- Zaokrąglone okna
+- Dodano: Co Nowego?
+- Zaokrąglone elementy
 - Naprawa błędów z instalacją folderu config przy każdej aktualizacji
 - Nowy przycisk "Graj" dla paczek modyfikacji
-- Wprowadzono wszędzie ciemny motyw
+- Poprawiono Ciemny motyw
 - Nowy sposób aktualizacji programu
 - Przeglądanie Screenshotów
