@@ -1,0 +1,16 @@
+Wersja 1.4.1 (24.06.2022)
+
+- Aktualizacja asynchroniczna
+- Usprawnienie synchronizacji
+- Przygotowanie pod status serwera
+
+
+Wersja 1.4.0 (21.06.2022)
+
+- Dodano: Co Nowego?
+- Zaokrąglone elementy
+- Naprawa błędów z instalacją folderu config przy każdej aktualizacji
+- Nowy przycisk "Graj" dla paczek modyfikacji
+- Poprawiono Ciemny motyw
+- Nowy sposób aktualizacji programu
+- Przeglądanie Screenshotów
