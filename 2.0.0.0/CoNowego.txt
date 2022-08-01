@@ -1,4 +1,4 @@
-Wersja 2.0.0 (22.07.2022)
+Wersja 2.0.0.0 (22.07.2022)
 + Status Serwera
 + Status Discord								!!!
 + Nowy system aktualizacji
@@ -19,14 +19,14 @@ PLANY:
 
 -------------
 
-Wersja 1.4.1 (24.06.2022)
+Wersja 1.4.1.0 (24.06.2022)
 + Aktualizacja asynchroniczna
 + Usprawnienie synchronizacji
 + Przygotowanie pod status serwera
 
 -------------
 
-Wersja 1.4.0 (21.06.2022)
+Wersja 1.4.0.0 (21.06.2022)
 + Dodano: Co Nowego?
 + Zaokrąglone elementy
 + Naprawa błędów z instalacją folderu config przy każdej aktualizacji
